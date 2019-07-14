@@ -78,7 +78,7 @@ $("#projects").on('click', function(){
       )
 });
 
-$("#contact").on('click', function(){
+$("#contactLink").on('click', function(){
     $("#appendArea").empty();
     $("#appendArea").append(
     "<h2 class='title'>Contact Me</h2>" +

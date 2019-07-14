@@ -62,29 +62,30 @@ hr {
 }
 
 #details  {
-
-    color: #add8d6;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 180%;
     margin-right: 20%;
+    width: 100%;
 }
 
 #linkedIn {
     color: #add8d6;
-    position: absolute;
-    margin-left: 5%;
+    padding-right: 8%;
 }
 
 #facebook {
     color: #add8d6;
-    position: absolute;
-    margin-left: 10%;
+    padding-right: 8%; 
 }
 
 #github {
     color: #add8d6;
-    position: absolute;
-    margin-left: 15%;
+    padding-right: 8%;
+}
+
+#contactLink {
+    color: #add8d6;
+    padding-right: 8%;
 }
 
 
