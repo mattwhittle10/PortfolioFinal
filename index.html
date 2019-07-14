@@ -8,33 +8,55 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/1fbe096271.js"></script>
+    <link rel="stylesheet" type="text/css" href="./assets/css/index.css">  
   </head>
   <body>
-      <div class="container">
-        <div class="jumbotron">
-          <div class="row">
-          <img src="./assets/images/profile_picture.jpg" alt="Profile Picture" height="200" width="155">
-          <div class='col-lg-3'>
-          <h1 class="display-6">Matthew Whittle</h1>
-                <hr class="my-4">
-                  <p>Phone Number: 801-200-2493</p>
-                  <p>Email: matt.whittle10@gmail.com</p>
-                  <div class="container">
-                      <link rel="stylesheet" type="text/css" href="theme.css"> Linked In
-                      <br>
-                      <link rel="stylesheet" type="text/css" href="theme.css"> Resume
-                    </div>
-                  </div>
-                </div>
-                <br>
-                  <a id="about" class="btn btn-info btn-lg" href="#" role="button">About Me</a>
-                  <a id="projects" class="btn btn-info btn-lg" href="#" role="button">Projects Portrolio</a>
-                  <a id="contact" class="btn btn-info btn-lg" href="#" role="button">Contact Me</a>
-
-                </p>
-              </div>
+      <div class="pos-f-t">
+          <nav class="navbar navbar" id="navbarStyling">
+            <div></div><!-- <img src="./assets/images/universityLogo2.jpg" height="60" width="140"> -->
+            <div id="details" class="float-right">
+              <a href="https://www.linkedin.com/in/matt-whittle-926862141/"  target="_blank" id='linkedIn'>
+                <i id="logo" class="fab fa-linkedin"></i>
+              </a>
+              <a href="https://www.facebook.com/matt.whittle.581?ref=bookmarks" target="_blank" id='facebook'>
+                <i class="fab fa-facebook-f"></i>
+              </a>
+              <a id="contact">
+                <i class="fa fa-envelope" aria-hidden="true"></i>
+              </a>
+              <a id="github"></a>
+                <i class="fab fa-github"></i>
+              </a>
             </div>
+          </nav>
+        </div>
+        <br>
+      <div id="infoBox" class="container">
+          <div class="row">
+          <img id="profilePic" src="./assets/images/profile_picture.jpg" alt="Profile Picture" height="200" width="140">
+          <div id="jumbotronText">
+          <h1 id="name" >Matthew Whittle</h1>
+                <!-- <hr id="hr" class="my-4"> -->
+                  </div>  
+                  <div id="buttonGroup">                  
+                        <a id="about" class="btn btn-info btn-lg" role="button">About Me</a>
+                        <a id="projects" class="btn btn-info btn-lg" role="button">Portfolio</a>  
+                        <a id="contact" class="btn btn-info btn-lg" role="button">Resume</a>              
+                  </div>
+                </div>          
+            </div>
+          
+              <br>
+              <br>
+              
             <div id="appendArea" class="container"></div>
+
+              <br>
+              <br>
+              <br>
+              <br>
+
             <footer>
                 <p class="text-center">
                 Copyright ©
