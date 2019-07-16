@@ -27,21 +27,21 @@ $("#projects").on('click', function(){
       "<br>" +
     "<div class='card-deck'>" +
     "<div class='card text-center' class='card'>" +
-      "<a href='./projects/ProjectTest/index.html' target='_blank'><img class='card-img-top' src='./assets/images/trailProject.jpg' alt='Card image cap'></a>" +
+      "<a href='https://mattwhittle10.github.io/ProjectTest/' target='_blank'><img class='card-img-top' src='./assets/images/trailProject.jpg' alt='Card image cap'></a>" +
       "<div class='card-body'>" +
         "<h5 class='card-title'>National Parks Project</h5>" +
       "</div>" +
       
     "</div>" +
     "<div class='card text-center' class='card'>" +
-      "<a href='./projects/word-guess-game/index.html' target='_blank'><img class='card-img-top' src='./assets/images/hangman.jpg' alt='Card image cap'></a>" +
+      "<a href='https://mattwhittle10.github.io/word-guess-game/' target='_blank'><img class='card-img-top' src='./assets/images/hangman.jpg' alt='Card image cap'></a>" +
       "<div class='card-body'>" +
         "<h5 class='card-title'>Hangman Game</h5>" +
       "</div>" +
       
     "</div>" +
     "<div class='card text-center' class='card'>" +
-      "<a href='./projects/unit-4-game-final/index.html' target='_blank'><img class='card-img-top' src='./assets/images/crystalGame.jpg' alt='Card image cap'></a>" +
+      "<a href='https://mattwhittle10.github.io/unit4gamefinal/' target='_blank'><img class='card-img-top' src='./assets/images/crystalGame.jpg' alt='Card image cap'></a>" +
       "<div class='card-body'>" +
         "<h5 class='card-title'>Crystal Counter</h5>" +
       "</div>" +
@@ -53,21 +53,21 @@ $("#projects").on('click', function(){
   "<br>" +
   "<div class='card-deck'>" +
         "<div class='card text-center' class='card'>" +
-          "<a href='./projects/train-scheduler/index.html' target='_blank'><img class='card-img-top' src='./assets/images/trainScheduler.jpg' alt='Card image cap'></a>" +
+          "<a href='https://mattwhittle10.github.io/train-scheduler/' target='_blank'><img class='card-img-top' src='./assets/images/trainScheduler.jpg' alt='Card image cap'></a>" +
           "<div class='card-body'>" +
             "<h5 class='card-title'>Train Scheduler</h5>" +
               "</div>" +
 
         "</div>" +
         "<div class='card text-center' class='card'>" +
-          "<a href='./projects/triviagame/index.html' target='_blank'><img class='card-img-top' src='./assets/images/triviaGame.jpg' alt='Card image cap'></a>" +
+          "<a href='https://mattwhittle10.github.io/triviagame/' target='_blank'><img class='card-img-top' src='./assets/images/triviaGame.jpg' alt='Card image cap'></a>" +
           "<div class='card-body'>" +
             "<h5 class='card-title'>Trivia Game</h5>" +
               "</div>" +
 
         "</div>" +
         "<div class='card text-center' class='card'>" +
-          "<a href='./projects/giphyassignment/index.html' target='_blank'><img class='card-img-top' src='./assets/images/giphy.jpg' alt='Card image cap'></a>" +
+          "<a href='https://mattwhittle10.github.io/giphyassignment/' target='_blank'><img class='card-img-top' src='./assets/images/giphy.jpg' alt='Card image cap'></a>" +
           "<div class='card-body'>" +
             "<h5 class='card-title'>Giphy Assignment</h5>" +
               "</div>" +
