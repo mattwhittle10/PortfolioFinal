@@ -24,6 +24,7 @@ $("#projects").on('click', function () {
   $("#appendArea").empty();
   $("#appendArea").append(
     "<h2 class='title'>My Projects</h2>" +
+    
     "<br>" +
     "<div class='card-deck'>" +
     "<div class='card text-center' class='card'>" +
@@ -101,7 +102,35 @@ $("#projects").on('click', function () {
     "</div>" +
     "</div>" +
     "<br>" +
-    "<hr class='line'>"
+    "<hr class='line'>" +
+
+    "<br>" +
+    "<div class='card-deck'>" +
+    "<div class='card text-center' class='card'>" +
+    "<a href='https://floating-hamlet-22025.herokuapp.com/' target='_blank'><img class='card-img-top imageAdjust' src='./assets/images/looneyTunes.jpg' alt='Card image cap'></a>" +
+    "<div class='card-body'>" +
+    "<h5 class='card-title titleAdjust'>Looney Tunes Memory Game</h5>" +
+    "</div>" +
+
+    "</div>" +
+    "<div class='card text-center' class='card'>" +
+    "<a href='https://floating-lowlands-75824.herokuapp.com/' target='_blank'><img class='card-img-top imageAdjust' src='./assets/images/bookCave.png' alt='Card image cap'></a>" +
+    "<div class='card-body'>" +
+    "<h5 class='card-title titleAdjust'>The Book Cave</h5>" +
+    "</div>" +
+
+    "</div>" +
+    "<div class='card text-center' class='card'>" +
+    "<a href='https://trader-trainer.herokuapp.com/' target='_blank'><img class='card-img-top' src='./assets/images/traderTrainer.jpg' alt='Card image cap'></a>" +
+    "<div class='card-body'>" +
+    "<h5 class='card-title'>Trader Trainer</h5>" +
+    "</div>" +
+
+    "</div>" +
+    "</div>" +
+    "<br>" +
+    "<hr class='line'>" 
+
   )
 });
 
