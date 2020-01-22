@@ -16,7 +16,7 @@ $("#about").on('click', function () {
     "<br>" +
     "<p>I was born and raised in Kaysville Utah. I grew up in a family of 4 kids, two boys and two girls." +
     " I've been married for 6 years now and currently have two little boys that I love spending time with. Some of my hobbies are playing soccer, fishing, riding motorcycles, and restoring and fixing classic cars & motorcycles.</p><br>" +
-    "<p>Currently I work at Fidelty Invesmtents. I have been working there for the past 5 years and have really enjoyed it. I just recently completed a 6 month full stack web development program at the University of Utah and am now looking to transition into a career in software development.</p><br>"
+    "<p>Currently I work at Fidelity Investments. I have been working there for the past 5 years and have really enjoyed it. I just recently completed a 6 month full stack web development program at the University of Utah and am now looking to transition into a career in software development.</p><br>"
   )
 });
 
